@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Random.DBConnection">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>classes\DBConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Random.Player">
+    <Position X="1.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>classes\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Random.PlayerData">
+    <Position X="4.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAFAAAAAAEgAAAAAAAAA=</HashCode>
+      <FileName>classes\PlayerData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Random.MatchData">
+    <Position X="7" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABQAEMAAAAAAAEAAIoAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>classes\MatchData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Random.Match">
+    <Position X="2" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Match.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
