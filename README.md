@@ -1,9 +1,17 @@
-# Random
-RandomX this android app is divide three parts :
+#RandomX
+this android app is divide three parts :
 
-1)database "SQL server"
-2)Webservice "c#"
-3)android interface "java" "android studio"
+##1)database "SQL server"
+
+link : https://github.com/allaedding/randomxdatabase
+
+##2)Webservice "c#"
+
+link : https://github.com/allaedding/Random
+
+##3)android interface "java" "android studio"
+
+link : https://github.com/allaedding/RandomX
 
 The idea of this game is simple:
 Choose a number of 4 non-duplicate numbers in your mind,as well your competitor.
